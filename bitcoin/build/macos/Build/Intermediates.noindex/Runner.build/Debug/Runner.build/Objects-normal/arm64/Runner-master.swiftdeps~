@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "86cf43b748ed6a94b844a996598f8311551f34526cf315f772d4bf564461b239"
+build_start_time: [1685004595, 44784000]
+build_end_time: [1685004595, 98110000]
+inputs:
+  "/Users/ujjval/Project/bitcoin/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1685004581, 777525852]
+  "/Users/ujjval/Project/bitcoin/macos/Runner/AppDelegate.swift": !private [1681949587, 0]
+  "/Users/ujjval/Project/bitcoin/macos/Runner/MainFlutterWindow.swift": !private [1684993374, 688125530]
